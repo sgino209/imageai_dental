@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Preprietry:
+.DS_Store
+*.xml
+odsi_db/
+dataset/
+models/*.h5
+detection_config.json
